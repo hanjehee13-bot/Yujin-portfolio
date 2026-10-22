@@ -1,0 +1,1 @@
+Open index.html in a browser. Keep the assets and projects folders next to index.html. The four project cards open individual case studies. Manuscript files are not publicly distributed. LINA findings are pending.
